@@ -1,8 +1,8 @@
 **[resume](https://github.com/nzsys/resume)**
 
 [![FreeBSD: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=success&style=flat-square&logo=freebsd)](https://www.freebsd.org/)
-[![ShellScript: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=success&style=flat-square&logo=shell)]
-[![ShellScript: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=success&style=flat-square&logo=gnubash)]
+[![ShellScript: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=success&style=flat-square&logo=shell)]()
+[![ShellScript: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=success&style=flat-square&logo=gnubash)]()
 [![Nginx: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=success&style=flat-square&logo=nginx)](https://www.nginx.com/)
 [![Apache: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Expert&color=blueviolet&style=flat-square&logo=apache)](https://httpd.apache.org/)
 [![Docker: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=success&style=flat-square&logo=docker)](https://www.docker.com/)
