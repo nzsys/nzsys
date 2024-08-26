@@ -1,5 +1,4 @@
 Hi 👋, I'm nzsys.
-**[resume](https://github.com/nzsys/resume)**
 
 [![FreeBSD: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=success&style=flat-square&logo=freebsd)](https://www.freebsd.org/)
 [![ShellScript: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=success&style=flat-square&logo=shell)]()
