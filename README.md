@@ -26,4 +26,19 @@ Hi 👋, I'm nzsys.
 [![Python: Beginner](https://img.shields.io/static/v1?label=%E2%80%8B&message=Beginner&color=lightgrey&style=flat-square&logo=python)](https://www.python.org/)
 [![Rust: n00b](https://img.shields.io/static/v1?label=%E2%80%8B&message=n00b&color=lightgrey&style=flat-square&logo=rust)](https://www.rust-lang.org/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nzsys)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzsys" alt="Top Languages" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-trophy.vercel.app">
+          <img src="https://github-profile-trophy.vercel.app/?username=nzsys&theme=onedark&title=-Stars,-Followers,-Reviews&row=2&column=3" alt="Trophies" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
